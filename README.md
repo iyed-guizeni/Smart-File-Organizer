@@ -1,8 +1,5 @@
 # Smart File Organizer
 
-<div align="center">
-  <img src="https://your-image-link.png" alt="Smart File Organizer Logo" width="200">
-</div>
 
 ## Overview
 
